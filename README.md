@@ -1,61 +1,66 @@
 <h1 align="center"> Ben Gittins </h1>
 
-<h4> <p align="center"> <a href='#projects'>Projects</a> | <a href='#experience'>Experience</a> | <a href='#skills'>Skills</a> | <a href='#education'>Education</a> | <a href='#hobbies'>Hobbies</a> | <a href='https://www.linkedin.com/in/bengittins/' target="_blank">LinkedIn</a> | <a href='https://github.com/squareben1' target="_blank">GitHub</a> | <a href='https://bgittins.com/' target="_blank">Portfolio</a> | <a href='mailto:bengittins@live.com?subject=About your CV...'>Email</a>  <br>London </p> </h4>
+<h4> <p align="center"> <a href='#projects'>Projects</a> | <a href='#experience'>Experience</a> | <a href='#skills'>Skills</a> | <a href='#education'>Education</a> | <a href='#hobbies'>Hobbies</a> | <a href='https://www.linkedin.com/in/bengittins/' target="_blank">LinkedIn</a> | <a href='https://github.com/squareben1' target="_blank">GitHub</a> | <a href='https://bgittins.com/' target="_blank">Portfolio</a> 
+<br>London | <a href='mailto:bengittins@live.com?subject=About your CV...'>bengittins@live.com</a> | 07952019947</p> </h4> 
 
 
-I am a passionate Full Stack Developer working with Python, JavaScript/React & Ruby/Rails. I write [Test Driven code](#test-driven-development) which I strive to keep as DRY and readable as possible. 
+I am a passionate Full Stack Developer working with JavaScript/React, Ruby/Rails & Python. I write [Test-Driven](#test-driven-development) code which I strive to keep as DRY and readable as possible. 
 
-See some of the projects I have built/am building in my portfolio: [bgittins.com](https://bgittins.com/).
 
-I'm currently helping an NPO, Gigfunding, to build a customer-facing skill sharing marketplace (which uses a customised version of a large, open source Rails project). I delivered all must-have tickets on time for live user testing deadline of 06/06/20. 
+- Functional knowledge of numerous programming languages gained both from professional experience and through extensive coursework and project completion, as well as a proficient understanding of development strategies and application development.
+- Skilled at teamwork and effective communication, with strong experience establishing workflows and talent driving teams to deliver timely project results.
+- Practised in stakeholder and client communication, as well as career experience with business process development, requirements engineering, and business analysis.
 
-I joined Gigfunding on a voluntary basis with the aim of learning from a team of experienced developers while contributing to a worthwhile project. The experience of writing code in a production environment has been extremely beneficial after finishing Makers Academy. 
+My top priority in finding a company to work at is to find a nurturing home for my skillset where I can grow as a developer and, most importantly, learn from talented teammates.
 
-I’m now looking for a nurturing home for my skillset where I can grow as a developer and learn from talented teammates. 
+See some of the projects I have built/am building in the Projects section [below](#projects) and on my portfolio site: [bgittins.com](https://bgittins.com/).
 
-- Languages & tech include JavaScript, React, Ruby, Rails & Python. I'm trained and practised in picking up new tech efficiently & effectively. 
-- Financial services background prior to tech: 5+ years in roles where being a [quantifiably fast learner](#adaptable-and-a-fast-learner) and [clear, effective communicator](#empathetic-and-effective-communicator) was absolutely paramount. 
-- Trained and certified in process improvement & Business Analysis, with experience building software in that capacity.
-
-Available at short notice for permanent positions. 
+| Technologies            |                                                                                                  |
+| ----------------------- | ------------------------------------------------------------------------------------------------ |
+| Languages & Frameworks: | Ruby, Rails, JavaScript, React, Python, SQL, MySQL, PostgreSQL, HTML, CSS, Sass, Node            |
+| Tools:                  | RSpec, Pytest, Capybara, Jasmine, Sinatra, AWS, Heroku, Travis CI,   GitHub, Wrike, Trello, Miro |
+| Methodologies:          | OOP, TDD, MVC, Agile Working Practices, Pair Programming, RESTful APIs                           |
 
 ## Projects
 
-| Project                                                               | What is it?                                                                                                                                                                                                                                                                                                                                                                                                                                    | Technologies                                                                    |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [bujj.it (repo)](https://github.com/bujj-it/bujj.it)                  | [Current project - Under Construction] Full stack budgeting app which is as simple to use as possible and which shows users how to keep track of their finances and save a percentage of their monthly income. Scope to add tips/suggestions for improvements & social/game-ified content once MVP is achieved to high standard. Holding page can be found at [bujj.it](https://bujj.it/) (yes, I am absolutely chuffed with the domain name). | PERN stack (Postgres, Express, React, Node.js), will feature Travis CI & Docker |
-| [DinoRun](https://github.com/squareben1/technodactyl-studios-dinorun) | Side scrolling platform game in which the level is generated from user-uploaded audio. Rather than use an existing library like p5.js we built the game mechanics with vanilla JS & learned a LOT in the process. Try to beat our high scores [here](https://technodactyl-studios-dinorun.herokuapp.com/).                                                                                                                                     | Ruby/Rails, PSQL and pure Javascript, tested with Rspec, Capybara and Jasmine   |
-| [Gilded Rose](https://github.com/squareben1/gilded_rose_tech_test)    | An example of testing used to maintain functionality in a major refactor, rather than to dictate design. See README for a breakdown of what I learned when I revisited this kata.                                                                                                                                                                                                                                                              | Javascript and Jasmine                                                          |
-| [Bank Tech Test](https://github.com/squareben1/bank_tech_test)        | A technical test from week 10 of Makers demonstrating Object Oriented Design and Test Driven Development.                                                                                                                                                                                                                                                                                                                                      | Ruby and Rspec                                                                  |
-| [CatBook](https://github.com/squareben1/acebook-catbook-inc)          | Facebook style web app built as part of an agile team. This project taught me valuable lessons in database development as well as UX Design & journey mapping. We used agile working practices including stand-ups, retros and pair programming to promote a harmonious team dynamic and efficient workflow. Sign up [here](https://acebook-catbook-inc.herokuapp.com/).                                                                       | Ruby, Rails, tested in Rspec & Capybara                                         |
+| Project                  | GitHub Repo                                                                                 | Live Site                                                         | What is it?                                                                                                                                                                                                                                                                                                                                                                                                                       | Technologies                                                                        |
+| ------------------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| PERN Stack Budgeting App | [/bujj-it/bujj.it](https://github.com/bujj-it)                                              | [bujj.it](https://bujj.it/)                                       | [Current project - Under Construction] MVP aims to teach users how to build a budget in as simple and clear a way as possible. Responsive site designed mobile-first to account for the main target market being young people who overwhelmingly access the web via mobile. Brilliant project for learning and improving with the tech concerned, especially React & CSS (and I'm also absolutely chuffed with the domain name).  | PostgreSQL, Express, React, Node.js, Travis CI & Docker                             |
+| Portfolio Site           | [/portfolio](https://github.com/squareben1/portfolio)                                       | [bgittins.com](https://bgittins.com/)                             | Responsive single page app to showcase some of my projects (and improve my front-end skills in the process). I also used this project as an opportunity to learn more about serverless technology by incorporating an AWS Lambda function into the contact form. Serverless is something I have been interested in since learning about it and using it here really demonstrated how powerful it could be in larger applications. | React, JavaScript, AWS Lambda, CSS (Sass), HTML                                     |
+| DinoRun                  | [/technodactyl-studios-dinorun](https://github.com/squareben1/technodactyl-studios-dinorun) | [Heroku App](https://technodactyl-studios-dinorun.herokuapp.com/) | Side scrolling platform game in which the level is generated from user-uploaded audio. Rather than use an existing library like p5.js we built the game mechanics with vanilla JS & learned a LOT about JavaScript in the process.                                                                                                                                                                                                | Ruby/Rails, PostgreSQL and pure Javascript, tested with Rspec, Capybara and Jasmine |
+| CatBook                  | [/acebook-catbook-inc](https://github.com/squareben1/acebook-catbook-inc)                   | [Heroku App](https://acebook-catbook-inc.herokuapp.com/)          | Facebook style web app built as part of an agile team. This project taught me valuable lessons in database development as well as UX Design & journey mapping. We used agile working practices including stand-ups, retros and pair programming to promote a harmonious team dynamic and efficient workflow.                                                                                                                      | Ruby, Rails, Travis CI, tested in Rspec & Capybara                                  |
+| Gilded Rose Kata         | [/gilded_rose](https://github.com/squareben1/gilded_rose)                                   | n/a                                                               | An example of testing used to maintain functionality in a major refactor, rather than to dictate design. I really enjoyed this kata - see the README for a breakdown of what I learned when I revisited it after 'completing' it'...                                                                                                                                                                                              | Javascript and Jasmine                                                              |
 
-
-
-## Experience
+## Experience Highlights
 
 **Junior Developer** (April 2020 – present)  
-_[Gigfunding](https://dignityplatform.org/) (part-time)_
+_[Gigfunding](https://dignityplatform.org/) (remote - we live in Zoom, Wrike & Telegram)_
 
-- Customising extensive production Rails marketplace as part of small international team. 
-- Seek regular feedback on my code to improve quickly.
-- Delivered all of my features on time for live user testing deadline of 06/06/20, including live chat functionality, front-end customisation, bug fixes & testing.
+Collaborate within high-performing international team, customizing open-source production Rails marketplace. Communicate with team to understand project requirements, participating in design meetings and system development discussions. 
+
+_Technical Scope: Ruby on Rails, MySQL, React, and Node.js_
+
+- Piloted implementation of live chat feature, as well as contributing to front-end customization, delivering all features on time for live user testing. 
+- Played key role partnering with team members to track project progress and launch site within scope and timelines.
 
 **Regulatory Consultant - Financial Services** (October 2013 – September 2019)  
-_Self Employed – clients include Lloyds Banking Group, Deloitte, TSB, RBS & NatWest_
+_Self Employed – multiple engagements_
 
-- Designed and delivered customer contact training for teams of around 20 people to enable successful transition of a major banking project from London to Leeds. 
-- Closely supported team through an unprecedented 9 months at 100% quality (2000+ cases worked and 200+ checked), in my capacity as Subject Matter Expert in regulatory review for Lloyds Banking Group.
-- Rated joint-first on last project for quality of investigative casework.
+Delivered expert financial consulting services for clients such as Lloyds Banking Group, Deloitte, TSB, RBS, and NatWest; leading & supporting teams, QC/QA and managing customer expectations. Monitoring complex regulatory compliance and quickly learning new sets of regulations, systems, and products. Facilitated meetings, led stakeholder teams, and developed, improved, and implemented effective processes utilizing Six Sigma tools and techniques.
+
+-	Achieved +95% correct decisions, spearheading client’s Outcome Testing initiative on “Big 4” banking project.
+-	Served as Subject Matter Expert for complicated regulatory review, advising and assisting team through unprecedented nine-months at 100% quality.
+-	Trained client teams of +20 associates, designing and presenting instructional materials to steer smooth transition of banking project from London to Leeds.
+
 
 **MBA Capital** (October 2017 – January 2018)  
-_Business Analyst, internship_
+_Business Analyst_
 
-Worked with Project Manager, client and developers to deliver a new [online portal](https://teacher.liffeycollege.ie/login) single page web app for Admin, Teachers, Students and Agents at Liffey College.
+Oversaw requirements engineering and project scope design for new [online portal](https://teacher.liffeycollege.ie/login) for educational institution. Liaised with customer to assess client needs and timelines. Partnered with Project Manager and development team to document and analyse project requirements and translate into actionable development tasks.
 
-- Features including timetables, calendars, messaging, recording attendance and uploading/viewing documents were released with an agile, iterative approach.
-- Appointed main client liaison for team due to excellent stakeholder management & communication skills.
+- Recognized for exceptional stakeholder management and communication skills and selected to serve as main point of contact for customer. 
+-	Finalized use case and user story analysis, as well as process mapping.
 
-Role included requirements gathering and documentation, sprint planning and process mapping as well as relaying requirements to the engineering team.
 
 ## Skills
 
@@ -66,36 +71,27 @@ My mum has always said that, as a child, she could ‘take me anywhere’ – ev
 I'm not afraid to ask for help when I need it and relish the opportunity to get [feedback](#test-driven-development) on my work. 
 
 - Designed and delivered communication training for teams of around 20 people to aid in the transition of a major banking project from London to Leeds.
-- I have also started and supported teams that dealt exclusively with the most difficult of a project’s cases - those involving the family of deceased customers in particular requiring tact and care.
+- I have also started and supported teams that dealt exclusively with the most difficult of a project’s cases - those involving the family of deceased customers, in particular, requiring tact and care.
 
 ### Adaptable and a Fast Learner
 
 With regulatory compliance contracts lasting anywhere from three months to two years, often with multiple workstreams on a single contract, one of the most valuable skills I have is the ability to learn a new set of complex regulations, systems and products quickly and thoroughly. 
 
-My ability to do this was **quantifiably tested**, with work being submitted to regular & thorough quality control checks. These **never dipped below 95%**. 
+My ability to do this was **quantifiably tested**, with work being submitted to regular & thorough quality control checks. These **never dipped below 95%**.
 
 - My brother and I saw a gap in the market for a podcast focusing on the less well-known but no less fascinating people in the entertainment industry so I set about learning how to run a podcast.
 - We started the Up & Coming podcast last year with no prior experience in podcasting and Season 1 has garnered thousands of listens to date. We are currently working on Season 2 and receiving requests for guest appearances.
 
-### Comfortable and Confident Working in a Team
+### Test-Driven Development
 
-I have always loved working collaboratively with people, I have done so throughout my career and really enjoy the feeling of being in a team that is gelling:
-
-- Since joining Gigfunding I have worked entirely remotely, using Wrike to track tickets and Zoom to hold meetings. This enables a team of devs spread from the UK to India and Pakistan to work together efficiently. 
-- I provided close Subject Matter Expert support to a team of 14 Case Handlers for nine months; leading stand-ups and providing support on their most complex cases.
-- During this time, we maintained 100% quality - with 2000+ cases worked and 200+ checked this was an unprecedented length of time for a team to go without a single incorrect decision.
-
-### Test Driven Development
-
-- Practically everything I build is made using Test Driven Development. I have used it since I first learned to code and it is second nature for me to use TDD when solving complex problems. 
-- I continue to undergo regular assessment of my TDD process and have had nine code reviews focused on this with an independent assessment company via Makers. This is **more than almost anyone else** the reviewers are aware of. I can provide examples of feedback from these sessions on request.
+Test-Driven Development is my preferred way to write code. I have used it since I first learned to code and it is second nature for me to use TDD when solving complex problems. 
+- I continue to undergo regular assessment of my TDD process and have had 10 code reviews focused on this with an independent assessment company via Makers. This is **more than almost anyone else** the reviewers are aware of. I can provide examples of feedback from these sessions on request.
 
 ## Education
 
 #### [Makers Academy](https://makers.tech/hire/) (December 2019 - March 2020)
 
 - Selective bootcamp with an emphasis on learning to learn, OOP, TDD, Agile Working Practices and Pair Programming as well as a fantastic 'EQ', or emotional intelligence curriculum.
-- Languages: Ruby, Rails, JavaScript, SQL, HTML, CSS
 
 #### University of Kent (2009 - 2012)
 
@@ -105,12 +101,11 @@ I have always loved working collaboratively with people, I have done so througho
 
 ### Other Qualifications
 
-| Certification                               | Awarding Body                                         |
-| ------------------------------------------- | ----------------------------------------------------- |
-| Foundation Certificate in Business Analysis | BCS (ISEB)                                            |
-| Lean Six Sigma Yellow Belt Certification    | The Lean Six Sigma Company/University of Bedfordshire |
-| Business Analysis – Practical Implications  | MBA Training                                          |
-| Certificate in Logical & Critical Thinking  | The University of Auckland [Ongoing]                  |
+| Certification                               | Awarding Body                        |
+| ------------------------------------------- | ------------------------------------ |
+| Foundation Certificate in Business Analysis | BCS, The Chartered Institute for IT  |
+| Lean Six Sigma Yellow Belt Certification    | The Lean Six Sigma Company           |
+| Certificate in Logical & Critical Thinking  | The University of Auckland [Ongoing] |
 
 ## Hobbies
 
